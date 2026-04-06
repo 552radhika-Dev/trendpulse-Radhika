@@ -89,4 +89,4 @@ for item in final_stories:
 
 print("--- Category Report ---")
 for cat, count in category_totals.items():
-    print(f"{cat.capitalize()}: {count} stories")
+    print(f"{cat.capitalize()}: {count} stories") 
