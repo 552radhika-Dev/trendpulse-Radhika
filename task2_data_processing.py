@@ -31,3 +31,4 @@ print(f"Saved {len(df)} rows to {output_file}")
 #printing a quick summary: how many stories per category
 print("\nStories per category:")
 print(df['category'].value_counts())
+ 
